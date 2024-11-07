@@ -1,0 +1,20 @@
+﻿AutoPartsApp
+
+
+winexe
+C#
+.cs
+C:\Users\k246\Desktop\AutoPartsApp 1.0\AutoPartsApp\obj\Debug\
+AutoPartsApp
+none
+false
+DEBUG;TRACE
+C:\Users\k246\Desktop\AutoPartsApp 1.0\AutoPartsApp\App.xaml
+22-649799177
+41589934205
+462076133796
+19930117644
+MainWindow.xaml;Pages\AddAutoPartPage.xaml;Pages\AddAutoPartsCategory.xaml;Pages\AddClientPage.xaml;Pages\AddOrderPage.xaml;Pages\AddProviderPage.xaml;Pages\AddSalePage.xaml;Pages\AddSellerPage.xaml;Pages\AddSupplyPage.xaml;Pages\AddUserPage.xaml;Pages\AuthorizationPage.xaml;Pages\AutoPartsCategoryPage.xaml;Pages\AutoPartsPage.xaml;Pages\ClientsPage.xaml;Pages\MainPage.xaml;Pages\OrdersPage.xaml;Pages\ProvidersPage.xaml;Pages\SaleSelectPage.xaml;Pages\SalesPage.xaml;Pages\SellersPage.xaml;Pages\SupplyPage.xaml;Pages\UsersPage.xaml;
+
+True
+
